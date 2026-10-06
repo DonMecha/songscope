@@ -1,0 +1,7 @@
+numpy
+scipy
+soundfile
+librosa
+matplotlib
+# lyrics_adherence.py だけが使う
+faster-whisper
